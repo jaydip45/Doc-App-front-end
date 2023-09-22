@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jaydip45/Doc-App-front-end/static/css/main.2e595785.css",
+    "main.js": "/jaydip45/Doc-App-front-end/static/js/main.6c738575.js",
+    "static/media/bootstrap-icons.woff?": "/jaydip45/Doc-App-front-end/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/jaydip45/Doc-App-front-end/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/jaydip45/Doc-App-front-end/index.html",
+    "static/media/reportWebVitals": "/jaydip45/Doc-App-front-end/static/media/reportWebVitals.dcbdc817311021a1fe5f",
+    "main.2e595785.css.map": "/jaydip45/Doc-App-front-end/static/css/main.2e595785.css.map",
+    "main.6c738575.js.map": "/jaydip45/Doc-App-front-end/static/js/main.6c738575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e595785.css",
+    "static/js/main.6c738575.js"
+  ]
+}
